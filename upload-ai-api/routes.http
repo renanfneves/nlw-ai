@@ -33,5 +33,5 @@ Content-Type: application/json
 {
   "videoId": "bla",
   "temperature": 0.5,
-  "template": "Resumo sucinto: '''{transcription}'''"
+  "prompt": "Resumo sucinto: '''{transcription}'''"
 }
